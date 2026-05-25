@@ -5,10 +5,10 @@ A Half Evasive Class for Clickonce Payloads
 [(https://ndolecki.gitlab.io/posts/clickonce)](https://ndolecki.gitlab.io/posts/clickonce)
 
 ## Usage 
-Copy the class within a Hijackable .net DLL and compile it . 
-Embed the shellcode you like using the Csharp Script included within this repo.
-Recreate the Hash values for .net Execution as Described in the blogpost or other sources.
-Host your modified .application file and try it out. 
+- Copy the class within a Hijackable .net DLL and compile it . 
+- Embed the shellcode you like using the Csharp Script included within this repo.
+- Recreate the Hash values for .net Execution as Described in the blogpost or other sources.
+- Host your modified .application file and try it out. 
 
 ## This class was used to play around with legit Hijackablae CLickonce Payloads with a little bit of EDR evasion
 
